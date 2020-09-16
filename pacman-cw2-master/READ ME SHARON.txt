@@ -1,0 +1,3 @@
+# pacman-cw2
+VERY IMPORTANT: get rid of anything that does not use bellman's equation
+utility should be 0 initially and RS should be the only thing you choose to change. Gamma should be fairly low to stop it when map iterations stop changing
